@@ -1,0 +1,79 @@
+---
+title: "Research"
+toc: true
+---
+
+My research spans methodological statistics, biostatistics, epidemiology, and health data science. I am particularly interested in developing and evaluating statistical methods and applying them to complex biomedical and public health data.
+
+::: {.research-section}
+
+## Methodological Research
+
+My methodological research focuses on **regression modeling, statistical inference, multicollinearity, shrinkage estimation, and Monte Carlo simulation**.
+
+Current and previous work includes:
+
+- Development and evaluation of one- and two-parameter regression estimators under multicollinearity
+- Empirical comparison of Type I error and statistical power
+- Ridge regression and Liu-type estimators
+- Elastic Net and robust estimation methods
+- Monte Carlo simulation studies
+- Applications of statistical methodology to real-world datasets
+
+:::
+
+::: {.research-section}
+
+## Biomedical & Public Health Research
+
+I collaborate on interdisciplinary research involving:
+
+- Maternal and neonatal health
+- Oncology and fertility preservation
+- HIV/AIDS and COVID-19
+- Alzheimer's disease
+- Environmental and climate health
+- Population health
+
+:::
+
+::: {.research-section}
+
+## Survival Analysis & Machine Learning
+
+My work with longitudinal Alzheimer's disease data includes prediction of progression from cognitively normal (CN) to mild cognitive impairment (MCI) and dementia.
+
+Methods include:
+
+- Cox proportional hazards models
+- Multi-state survival analysis
+- LASSO regression
+- DeepSurv neural networks
+- Longitudinal risk prediction
+- Biomarker evaluation
+
+:::
+
+::: {.research-section}
+
+## Environmental & Epidemiologic Methods
+
+My collaborative research has involved statistical analysis of environmental exposures and health outcomes using methods including:
+
+- Logistic regression
+- Weighted Quantile Sum (WQS) regression
+- Bayesian Kernel Machine Regression (BKMR)
+- Structural Equation Modeling (SEM)
+- Multiple imputation
+- Sensitivity analysis
+
+:::
+
+
+::: {.research-goal}
+
+### Research Goal
+
+My broader research goal is to develop statistically rigorous and computationally useful methods that can improve analysis and decision-making in biomedical, clinical, and public health research.
+
+:::

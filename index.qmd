@@ -1,0 +1,125 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+:::: {.columns .hero-section}
+
+::: {.column width="65%"}
+
+# Md Ariful Hoque {.hero-name}
+
+<p class="hero-title">PhD Candidate in Biostatistics & Data Analytics</p>
+
+<p class="hero-affiliation">
+Florida International University · Miami, Florida
+</p>
+
+<p class="hero-description">
+I am a PhD Candidate in Biostatistics and Data Analytics at Florida International University. My research focuses on developing and evaluating statistical methods for complex biomedical and public health data.
+</p>
+
+<p class="hero-description">
+My research interests include statistical inference, regression modeling, multicollinearity, shrinkage estimation, survival analysis, epidemiology, causal inference, and machine learning for health data.
+</p>
+
+[Download CV](Md_Ariful_Hoque_CV.pdf){.btn .btn-primary}
+[Email Me](mailto:mhoqu010@fiu.edu){.btn .btn-outline-primary}
+
+<div class="academic-links">
+
+[Google Scholar](https://scholar.google.com/citations?user=Y_WmhwoAAAAJ&hl=en) ·
+[LinkedIn](https://www.linkedin.com/in/md-ariful-hoque-biostatistics/) ·
+[GitHub](https://github.com/Md-Ariful-Hoque) ·
+[ORCID](https://orcid.org/0009-0005-0870-3928)
+
+</div>
+
+:::
+
+::: {.column width="35%"}
+
+![](profile.jpg){.profile-photo}
+
+:::
+
+::::
+
+## Research Areas
+
+:::: {.research-grid}
+
+::: {.research-card}
+### Statistical Methodology
+
+Regression modeling, statistical inference, multicollinearity, shrinkage estimation, and Monte Carlo simulation.
+:::
+
+::: {.research-card}
+### Biostatistics & Epidemiology
+
+Statistical methods for biomedical, clinical, epidemiologic, and public health research.
+:::
+
+::: {.research-card}
+### Survival & Longitudinal Analysis
+
+Survival modeling, longitudinal health data, disease progression, and risk prediction.
+:::
+
+::: {.research-card}
+### Machine Learning for Health
+
+Machine learning, predictive modeling, and computational methods for complex health data.
+:::
+
+::::
+
+## Featured Publications
+
+::: {.featured-paper}
+
+### New Two-Parameter Ridge Estimators for Addressing Multicollinearity in Linear Regression: Theory, Simulation, and Applications
+
+**Md Ariful Hoque**, B. M. Golam Kibria, and Zoran Bursac  
+*Stats*, 2026
+
+[View Publication](https://doi.org/10.3390/stats9010015){.btn .btn-sm .btn-outline-primary}
+
+:::
+
+::: {.featured-paper}
+
+### Inferences About Two-Parameter Multicollinear Gaussian Linear Regression Models: An Empirical Type I Error and Power Comparison
+
+**Md Ariful Hoque**, Zoran Bursac, and B. M. Golam Kibria  
+*Stats*, 2025
+
+[View Publication](https://doi.org/10.3390/stats8020028){.btn .btn-sm .btn-outline-primary}
+
+:::
+
+::: {.featured-paper}
+
+### Excess Mortality Among People with HIV in Florida During the Initial Onset of the COVID-19 Pandemic: A Surveillance-Based Analysis
+
+S. Dhungel, M. K. Ward, G. A. Barreto, et al., including **Md Ariful Hoque**  
+*AIDS and Behavior*, 2025
+
+[View Publication](https://doi.org/10.1007/s10461-025-05014-0){.btn .btn-sm .btn-outline-primary}
+
+:::
+
+[View All Publications →](publications.qmd){.btn .btn-primary}
+
+## Current Position
+
+**PhD Candidate (ABD)**  
+Biostatistics & Data Analytics  
+Florida International University  
+Miami, Florida
+
+## Connect
+
+[GitHub](https://github.com/Md-Ariful-Hoque)

@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Md Ariful Hoque"
+  description: "Academic portfolio of Md Ariful Hoque, PhD Candidate in Biostatistics and Data Analytics at Florida International University. Research in statistical methodology, biomedical data science, survival analysis, epidemiology, and machine learning."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/Md-Ariful-Hoque
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/md-ariful-hoque-biostatistics/
+        aria-label: LinkedIn
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=Y_WmhwoAAAAJ&hl=en
+        aria-label: Google Scholar
+      - text: ORCID
+        href: https://orcid.org/0009-0005-0870-3928
+  page-footer:
+    left: "© 2026 Md Ariful Hoque"
+    center: "Biostatistics & Data Analytics · Florida International University"
+    right: "Built with Quarto"    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

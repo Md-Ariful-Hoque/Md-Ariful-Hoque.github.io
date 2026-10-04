@@ -1,0 +1,78 @@
+---
+title: "About"
+toc: true
+---
+
+## Md Ariful Hoque
+
+I am a PhD Candidate (ABD) in **Biostatistics and Data Analytics** at **Florida International University (FIU)** in Miami, Florida.
+
+My research interests span methodological and applied biostatistics, with particular interests in regression modeling, statistical inference, multicollinearity, shrinkage estimation, survival analysis, epidemiology, causal inference, clinical research, and machine learning for health data.
+
+My work combines statistical methodology, Monte Carlo simulation, computational statistics, and applications to biomedical and public health research.
+
+## Education
+
+**PhD Candidate (ABD), Biostatistics & Data Analytics**  
+Florida International University  
+2023 – Expected Summer 2027
+
+**MS in Statistics**  
+Florida International University  
+2023
+
+**MS in Statistics**  
+University of Dhaka  
+2020
+
+**Bachelor of Science (Honors) in Statistics**  
+University of Dhaka  
+2018
+
+## Technical Skills
+
+:::: {.skills-grid}
+
+::: {.skill-box}
+
+**Programming:** R, SAS, SQL, Python
+
+**Statistical Methods:** Regression Modeling, Logistic Regression, Survival Analysis, Longitudinal Data Analysis, Causal Inference, Multiple Imputation, Monte Carlo Simulation, Shrinkage Estimation, Machine Learning, Neural Networks, Deep Learning
+
+:::
+
+::: {.skill-box}
+
+**Research & Reproducibility:** Quarto, R Markdown, Markdown, LaTeX, Git, GitHub
+
+:::
+
+::: {.skill-box}
+
+**Other Software:** Excel, SPSS, STATA, REDCap
+
+:::
+
+::::
+
+## Professional Membership
+
+- American Statistical Association (ASA)
+
+## Contact
+
+::: {.contact-box}
+
+**Email:** [mhoqu010@fiu.edu](mailto:mhoqu010@fiu.edu)  
+
+**Google Scholar:** [View Profile](https://scholar.google.com/citations?user=Y_WmhwoAAAAJ&hl=en)  
+
+**LinkedIn:** [md-ariful-hoque-biostatistics](https://www.linkedin.com/in/md-ariful-hoque-biostatistics/)  
+
+**GitHub:** [Md-Ariful-Hoque](https://github.com/Md-Ariful-Hoque)  
+
+**ORCID:** [0009-0005-0870-3928](https://orcid.org/0009-0005-0870-3928)  
+
+**Location:** Miami, Florida
+
+:::

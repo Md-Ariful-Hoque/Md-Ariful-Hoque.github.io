@@ -1,0 +1,99 @@
+---
+title: "Publications"
+toc: false
+---
+
+## Journal Articles & Book Chapters
+
+::: {.publication-card}
+
+<span class="publication-year">2026</span>
+
+### New Two-Parameter Ridge Estimators for Addressing Multicollinearity in Linear Regression: Theory, Simulation, and Applications
+
+**Md Ariful Hoque**, B. M. Golam Kibria, and Zoran Bursac  
+*Stats*, 9(1), 15, 2026.
+
+[View Publication](https://doi.org/10.3390/stats9010015){.btn .btn-sm .btn-outline-primary}
+
+
+:::
+
+
+::: {.publication-card}
+
+<span class="publication-year">2026</span>
+
+### Performance of Some Test Statistics for Testing the Regression Coefficients for the One-and Two-Parameter Multicollinear Gaussian Multiple Linear Regression Models: An Empirical Comparison
+
+**Md Ariful Hoque**, Zoran Bursac, and B. M. Golam Kibria  
+In *Advances in Shrinkage and Penalized Estimation Strategies: Honoring the Contributions of Professor A. K. Md. Ehsanes Saleh*, pp. 327–357. Springer Nature Switzerland, 2026.
+
+:::
+
+
+::: {.publication-card}
+
+<span class="publication-year">2025</span>
+
+### Excess Mortality Among People with HIV in Florida During the Initial Onset of the COVID-19 Pandemic: A Surveillance-Based Analysis
+
+S. Dhungel, M. K. Ward, G. A. Barreto, et al., including **Md Ariful Hoque**  
+*AIDS and Behavior*, 2025.
+
+[View Publication](https://doi.org/10.1007/s10461-025-05014-0){.btn .btn-sm .btn-outline-primary}
+
+:::
+
+
+::: {.publication-card}
+
+<span class="publication-year">2025</span>
+
+### Inferences About Two-Parameter Multicollinear Gaussian Linear Regression Models: An Empirical Type I Error and Power Comparison
+
+**Md Ariful Hoque**, Zoran Bursac, and B. M. Golam Kibria  
+*Stats*, 8(2), 28, 2025.
+
+[View Publication](https://doi.org/10.3390/stats8020028){.btn .btn-sm .btn-outline-primary}
+
+:::
+
+
+::: {.publication-card}
+
+<span class="publication-year">2024</span>
+
+### Performance of Some Estimators for the Multicollinear Logistic Regression Model: Theory, Simulation, and Applications
+
+**Md Ariful Hoque** and B. M. Golam Kibria  
+*Research in Statistics*, 2(1), 2364747, 2024.
+
+:::
+
+
+::: {.publication-card}
+
+<span class="publication-year">2023</span>
+
+### Some One and Two Parameter Estimators for the Multicollinear Gaussian Linear Regression Model: Simulations and Applications
+
+**Md Ariful Hoque** and B. M. Golam Kibria  
+*Surveys in Mathematics and its Applications*, 18, 183–221, 2023.
+
+:::
+
+
+## Submitted / In Revision
+
+::: {.publication-card}
+
+<span class="publication-year">In Revision</span>
+
+### Addressing Multicollinearity Using Two-Parameter Estimators for the Linear Regression Model: Theory, Simulation and Application
+
+**Md Ariful Hoque**, Zoran Bursac, and B. M. Golam Kibria
+
+*Submitted / In Revision*
+
+:::

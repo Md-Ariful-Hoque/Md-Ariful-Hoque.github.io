@@ -1,0 +1,87 @@
+---
+title: "Experience"
+toc: true
+---
+
+## Academic & Research Experience
+
+::: {.experience-item}
+
+### Graduate Assistant — Department of Biostatistics
+
+**Florida International University**  
+*August 2023 – Present*
+
+- Conduct methodological research in regression modeling, statistical inference, multicollinearity, and shrinkage estimation.
+- Develop and evaluate one- and two-parameter regression estimators using Monte Carlo simulation.
+- Apply statistical methods to environmental and public health data using R and SAS.
+- Contribute to manuscripts, statistical reports, and reproducible research workflows.
+
+:::
+
+::: {.experience-item}
+
+### Research Assistant — Department of Biostatistics
+**Florida International University**  
+*August 2023 – Present*
+
+- Work as a Research Assistant under an NIH RCMI grant.
+- Conduct statistical analyses for interdisciplinary research in maternal health, oncology, HIV/AIDS, COVID-19, climate health, and Alzheimer's disease.
+- Apply regression, survival analysis, epidemiologic methods, machine learning, and advanced statistical modeling to clinical and population-health data.
+- Develop reproducible analytical workflows, publication-ready tables, figures, and statistical reports.
+
+:::
+
+::: {.experience-item}
+
+### Graduate Assistant — Department of Statistics
+**Florida International University**  
+*August 2021 – July 2023*
+
+Conducted methodological research comparing one- and two-parameter estimators for multicollinear Gaussian linear regression models using simulation studies and applications.
+
+:::
+
+::: {.experience-item}
+
+### Undergraduate Research Assistant — Department of Statistics
+**University of Dhaka**  
+*2017 – 2018*
+
+Conducted research on the socioeconomic impact of dengue outbreaks in Dhaka using survey-based statistical analysis, including data collection, cleaning, visualization, and analysis.
+
+:::
+
+## Education
+
+::: {.education-item}
+
+### PhD Candidate (ABD) — Biostatistics & Data Analytics
+**Florida International University**  
+2023 – Expected Summer 2027
+
+:::
+
+::: {.education-item}
+
+### MS in Statistics
+**Florida International University**  
+2023
+
+:::
+
+::: {.education-item}
+
+### MS in Statistics
+**University of Dhaka**  
+2020
+
+:::
+
+::: {.education-item}
+
+### Bachelor of Science (Honors) in Statistics
+**University of Dhaka**  
+2018
+
+:::

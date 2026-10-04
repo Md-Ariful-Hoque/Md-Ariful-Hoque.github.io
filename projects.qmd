@@ -1,0 +1,90 @@
+---
+title: "Selected Projects"
+toc: true
+---
+
+This page highlights selected statistical, machine learning, and public health research projects.
+
+:::: {.projects-grid}
+
+::: {.project-card}
+
+### Machine Learning for Breast Cancer Diagnosis
+
+Applied machine learning methods to breast cancer diagnosis data for classification and predictive modeling.
+
+**Methods:** Machine Learning · Classification · Predictive Modeling
+
+:::
+
+::: {.project-card}
+
+## Alzheimer's Disease Progression Modeling
+
+Developed survival and machine-learning models using longitudinal Alzheimer's Disease Neuroimaging Initiative (ADNI) data to study progression from cognitively normal (CN) to mild cognitive impairment (MCI) and dementia.
+
+**Methods:** Cox Regression · Multi-State Survival Analysis · LASSO · DeepSurv · Machine Learning
+
+:::
+
+::: {.project-card}
+
+## Environmental Exposures and Maternal Health
+
+Analyzed associations between environmental metal mixtures and maternal/neonatal health outcomes.
+
+**Methods:** Logistic Regression · WQS Regression · BKMR · Structural Equation Modeling
+
+:::
+
+::: {.project-card}
+
+## HIV and COVID-19 Research
+
+Contributed to epidemiological studies involving HIV/AIDS and COVID-19, including research on excess mortality among people with HIV in Florida during the early COVID-19 period.
+
+**Methods:** Epidemiologic Analysis · Farrington Algorithm · Regression Modeling
+
+:::
+
+::: {.project-card}
+
+## Climate Change and Community Health
+
+Contributed to the **Climate Change and Community Health Consequences in Colombia (5C)** project involving population-based cohort research on climate and health outcomes in South America.
+
+**Area:** Climate Health · Epidemiology · Population Health
+
+:::
+
+::: {.project-card}
+
+## Regression Analysis Using IML
+
+Statistical computing project involving regression analysis using SAS Interactive Matrix Language (IML).
+
+**Methods:** Regression · Matrix Computing · SAS/IML
+
+:::
+
+::: {.project-card}
+
+## Hurricane Harvey: Utility Disruption, Damage, and Household Wellbeing
+
+Analyzed data related to Hurricane Harvey to investigate utility disruption, damage, and household wellbeing.
+
+**Area:** Environmental Health · Disaster Research · Statistical Analysis
+
+:::
+
+::: {.project-card}
+
+## Prediction of Algerian Forest Fires
+
+Developed predictive analyses using data from the Bejaia and Sidi-Bel Abbes regions.
+
+**Area:** Predictive Modeling · Statistical Learning
+
+:::
+
+::::

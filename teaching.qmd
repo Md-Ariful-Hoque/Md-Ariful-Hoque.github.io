@@ -1,0 +1,98 @@
+---
+title: "Teaching"
+toc: true
+---
+
+## Teaching Experience
+
+::: {.teaching-item}
+
+### Guest Instructor — Department of Biostatistics
+
+<div class="teaching-role">Florida International University</div>
+
+*May 2024 – August 2024*
+
+- Delivered instruction on Generalized Linear Models, including Poisson regression.
+- Introduced regularization methods including Ridge, LASSO, and Elastic Net.
+
+:::
+
+::: {.teaching-item}
+
+### Teaching Assistant — Department of Biostatistics
+
+<div class="teaching-role">Florida International University</div>
+
+*August 2023 – Present*
+
+- Responsibilities include assisting with course materials, discussion and academic support sessions, grading, assignment evaluation, and student mentoring in graduate-level biostatistics and public health courses.
+
+:::
+
+::: {.teaching-item}
+
+### Graduate Teaching Assistant — Department of Statistics
+
+<div class="teaching-role">Florida International University</div>
+
+*August 2021 – July 2023*
+
+- Provided instructional and academic support for undergraduate and graduate statistics courses.
+
+:::
+
+
+---
+
+## Student Teaching Evaluations
+
+Official Student Perceptions of Teaching (SPOTs) results from Florida International University.
+
+:::: {.evaluation-grid}
+
+::: {.evaluation-card}
+
+### PHC 6701
+#### R for Health Data Science
+
+**Spring 2026**
+
+<div class="evaluation-score">100%</div>
+<div class="evaluation-label">Excellent — Overall Assessment of Instructor</div>
+
+**4 completed evaluations**
+
+- Communication of ideas and information: **100% Excellent**
+- Availability to assist students: **75% Excellent, 25% Very Good**
+- Facilitation of learning: **75% Excellent, 25% Very Good**
+- Respect and concern for students: **75% Excellent, 25% Very Good**
+
+[View Official SPOT Report](PHC6701_SPOT_Spring2026.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+
+:::
+
+::: {.evaluation-card}
+
+### PHC 6052
+#### Biostatistics I
+
+**Summer 2026**
+
+<div class="evaluation-score">100%</div>
+<div class="evaluation-label">Excellent or Very Good — Overall Assessment</div>
+
+**3 completed evaluations**
+
+- Overall assessment: **67% Excellent, 33% Very Good**
+- Communication of ideas and information: **67% Excellent, 33% Very Good**
+- Availability to assist students: **67% Excellent, 33% Very Good**
+- Facilitation of learning: **67% Excellent, 33% Very Good**
+- Respect and concern for students: **67% Excellent, 33% Very Good**
+[View Official SPOT Report](PHC6052_SPOT_Summer2026.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+
+:::
+
+::::
+
+*Percentages are based on completed student evaluations. Response counts are displayed to provide context.*

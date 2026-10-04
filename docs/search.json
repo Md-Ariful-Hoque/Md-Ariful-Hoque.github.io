@@ -1,5 +1,180 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD Candidate (ABD) in Biostatistics and Data Analytics at Florida International University (FIU) in Miami, Florida.\nMy research interests span methodological and applied biostatistics, with particular interests in regression modeling, statistical inference, multicollinearity, shrinkage estimation, survival analysis, epidemiology, causal inference, clinical research, and machine learning for health data.\nMy work combines statistical methodology, Monte Carlo simulation, computational statistics, and applications to biomedical and public health research."
+  },
+  {
+    "objectID": "about.html#md-ariful-hoque",
+    "href": "about.html#md-ariful-hoque",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD Candidate (ABD) in Biostatistics and Data Analytics at Florida International University (FIU) in Miami, Florida.\nMy research interests span methodological and applied biostatistics, with particular interests in regression modeling, statistical inference, multicollinearity, shrinkage estimation, survival analysis, epidemiology, causal inference, clinical research, and machine learning for health data.\nMy work combines statistical methodology, Monte Carlo simulation, computational statistics, and applications to biomedical and public health research."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPhD Candidate (ABD), Biostatistics & Data Analytics\nFlorida International University\n2023 – Expected Summer 2027\nMS in Statistics\nFlorida International University\n2023\nMS in Statistics\nUniversity of Dhaka\n2020\nBachelor of Science (Honors) in Statistics\nUniversity of Dhaka\n2018"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\nProgramming: R, SAS, SQL, Python\nStatistical Methods: Regression Modeling, Logistic Regression, Survival Analysis, Longitudinal Data Analysis, Causal Inference, Multiple Imputation, Monte Carlo Simulation, Shrinkage Estimation, Machine Learning, Neural Networks, Deep Learning\n\n\nResearch & Reproducibility: Quarto, R Markdown, Markdown, LaTeX, Git, GitHub\n\n\nOther Software: Excel, SPSS, STATA, REDCap"
+  },
+  {
+    "objectID": "about.html#professional-membership",
+    "href": "about.html#professional-membership",
+    "title": "About",
+    "section": "Professional Membership",
+    "text": "Professional Membership\n\nAmerican Statistical Association (ASA)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: mhoqu010@fiu.edu\nGoogle Scholar: View Profile\nLinkedIn: md-ariful-hoque-biostatistics\nGitHub: Md-Ariful-Hoque\nORCID: 0009-0005-0870-3928\nLocation: Miami, Florida"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Florida International University\nAugust 2023 – Present\n\nConduct methodological research in regression modeling, statistical inference, multicollinearity, and shrinkage estimation.\nDevelop and evaluate one- and two-parameter regression estimators using Monte Carlo simulation.\nApply statistical methods to environmental and public health data using R and SAS.\nContribute to manuscripts, statistical reports, and reproducible research workflows.\n\n\n\n\nFlorida International University\nAugust 2023 – Present\n\nWork as a Research Assistant under an NIH RCMI grant.\nConduct statistical analyses for interdisciplinary research in maternal health, oncology, HIV/AIDS, COVID-19, climate health, and Alzheimer’s disease.\nApply regression, survival analysis, epidemiologic methods, machine learning, and advanced statistical modeling to clinical and population-health data.\nDevelop reproducible analytical workflows, publication-ready tables, figures, and statistical reports.\n\n\n\n\nFlorida International University\nAugust 2021 – July 2023\nConducted methodological research comparing one- and two-parameter estimators for multicollinear Gaussian linear regression models using simulation studies and applications.\n\n\n\nUniversity of Dhaka\n2017 – 2018\nConducted research on the socioeconomic impact of dengue outbreaks in Dhaka using survey-based statistical analysis, including data collection, cleaning, visualization, and analysis."
+  },
+  {
+    "objectID": "experience.html#academic-research-experience",
+    "href": "experience.html#academic-research-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Florida International University\nAugust 2023 – Present\n\nConduct methodological research in regression modeling, statistical inference, multicollinearity, and shrinkage estimation.\nDevelop and evaluate one- and two-parameter regression estimators using Monte Carlo simulation.\nApply statistical methods to environmental and public health data using R and SAS.\nContribute to manuscripts, statistical reports, and reproducible research workflows.\n\n\n\n\nFlorida International University\nAugust 2023 – Present\n\nWork as a Research Assistant under an NIH RCMI grant.\nConduct statistical analyses for interdisciplinary research in maternal health, oncology, HIV/AIDS, COVID-19, climate health, and Alzheimer’s disease.\nApply regression, survival analysis, epidemiologic methods, machine learning, and advanced statistical modeling to clinical and population-health data.\nDevelop reproducible analytical workflows, publication-ready tables, figures, and statistical reports.\n\n\n\n\nFlorida International University\nAugust 2021 – July 2023\nConducted methodological research comparing one- and two-parameter estimators for multicollinear Gaussian linear regression models using simulation studies and applications.\n\n\n\nUniversity of Dhaka\n2017 – 2018\nConducted research on the socioeconomic impact of dengue outbreaks in Dhaka using survey-based statistical analysis, including data collection, cleaning, visualization, and analysis."
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience",
+    "section": "Education",
+    "text": "Education\n\nPhD Candidate (ABD) — Biostatistics & Data Analytics\nFlorida International University\n2023 – Expected Summer 2027\n\n\nMS in Statistics\nFlorida International University\n2023\n\n\nMS in Statistics\nUniversity of Dhaka\n2020\n\n\nBachelor of Science (Honors) in Statistics\nUniversity of Dhaka\n2018"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Selected Projects",
+    "section": "",
+    "text": "This page highlights selected statistical, machine learning, and public health research projects."
+  },
+  {
+    "objectID": "projects.html#alzheimers-disease-progression-modeling",
+    "href": "projects.html#alzheimers-disease-progression-modeling",
+    "title": "Selected Projects",
+    "section": "Alzheimer’s Disease Progression Modeling",
+    "text": "Alzheimer’s Disease Progression Modeling\nDeveloped survival and machine-learning models using longitudinal Alzheimer’s Disease Neuroimaging Initiative (ADNI) data to study progression from cognitively normal (CN) to mild cognitive impairment (MCI) and dementia.\nMethods: Cox Regression · Multi-State Survival Analysis · LASSO · DeepSurv · Machine Learning"
+  },
+  {
+    "objectID": "projects.html#environmental-exposures-and-maternal-health",
+    "href": "projects.html#environmental-exposures-and-maternal-health",
+    "title": "Selected Projects",
+    "section": "Environmental Exposures and Maternal Health",
+    "text": "Environmental Exposures and Maternal Health\nAnalyzed associations between environmental metal mixtures and maternal/neonatal health outcomes.\nMethods: Logistic Regression · WQS Regression · BKMR · Structural Equation Modeling"
+  },
+  {
+    "objectID": "projects.html#hiv-and-covid-19-research",
+    "href": "projects.html#hiv-and-covid-19-research",
+    "title": "Selected Projects",
+    "section": "HIV and COVID-19 Research",
+    "text": "HIV and COVID-19 Research\nContributed to epidemiological studies involving HIV/AIDS and COVID-19, including research on excess mortality among people with HIV in Florida during the early COVID-19 period.\nMethods: Epidemiologic Analysis · Farrington Algorithm · Regression Modeling"
+  },
+  {
+    "objectID": "projects.html#climate-change-and-community-health",
+    "href": "projects.html#climate-change-and-community-health",
+    "title": "Selected Projects",
+    "section": "Climate Change and Community Health",
+    "text": "Climate Change and Community Health\nContributed to the Climate Change and Community Health Consequences in Colombia (5C) project involving population-based cohort research on climate and health outcomes in South America.\nArea: Climate Health · Epidemiology · Population Health"
+  },
+  {
+    "objectID": "projects.html#regression-analysis-using-iml",
+    "href": "projects.html#regression-analysis-using-iml",
+    "title": "Selected Projects",
+    "section": "Regression Analysis Using IML",
+    "text": "Regression Analysis Using IML\nStatistical computing project involving regression analysis using SAS Interactive Matrix Language (IML).\nMethods: Regression · Matrix Computing · SAS/IML"
+  },
+  {
+    "objectID": "projects.html#hurricane-harvey-utility-disruption-damage-and-household-wellbeing",
+    "href": "projects.html#hurricane-harvey-utility-disruption-damage-and-household-wellbeing",
+    "title": "Selected Projects",
+    "section": "Hurricane Harvey: Utility Disruption, Damage, and Household Wellbeing",
+    "text": "Hurricane Harvey: Utility Disruption, Damage, and Household Wellbeing\nAnalyzed data related to Hurricane Harvey to investigate utility disruption, damage, and household wellbeing.\nArea: Environmental Health · Disaster Research · Statistical Analysis"
+  },
+  {
+    "objectID": "projects.html#prediction-of-algerian-forest-fires",
+    "href": "projects.html#prediction-of-algerian-forest-fires",
+    "title": "Selected Projects",
+    "section": "Prediction of Algerian Forest Fires",
+    "text": "Prediction of Algerian Forest Fires\nDeveloped predictive analyses using data from the Bejaia and Sidi-Bel Abbes regions.\nArea: Predictive Modeling · Statistical Learning"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Florida International University\n\nMay 2024 – August 2024\n\nDelivered instruction on Generalized Linear Models, including Poisson regression.\nIntroduced regularization methods including Ridge, LASSO, and Elastic Net.\n\n\n\n\n\nFlorida International University\n\nAugust 2023 – Present\n\nResponsibilities include assisting with course materials, discussion and academic support sessions, grading, assignment evaluation, and student mentoring in graduate-level biostatistics and public health courses.\n\n\n\n\n\nFlorida International University\n\nAugust 2021 – July 2023\n\nProvided instructional and academic support for undergraduate and graduate statistics courses."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Florida International University\n\nMay 2024 – August 2024\n\nDelivered instruction on Generalized Linear Models, including Poisson regression.\nIntroduced regularization methods including Ridge, LASSO, and Elastic Net.\n\n\n\n\n\nFlorida International University\n\nAugust 2023 – Present\n\nResponsibilities include assisting with course materials, discussion and academic support sessions, grading, assignment evaluation, and student mentoring in graduate-level biostatistics and public health courses.\n\n\n\n\n\nFlorida International University\n\nAugust 2021 – July 2023\n\nProvided instructional and academic support for undergraduate and graduate statistics courses."
+  },
+  {
+    "objectID": "teaching.html#student-teaching-evaluations",
+    "href": "teaching.html#student-teaching-evaluations",
+    "title": "Teaching",
+    "section": "Student Teaching Evaluations",
+    "text": "Student Teaching Evaluations\nOfficial Student Perceptions of Teaching (SPOTs) results from Florida International University.\n\n\nPHC 6701\n\nR for Health Data Science\nSpring 2026\n\n100%\n\n\nExcellent — Overall Assessment of Instructor\n\n4 completed evaluations\n\nCommunication of ideas and information: 100% Excellent\nAvailability to assist students: 75% Excellent, 25% Very Good\nFacilitation of learning: 75% Excellent, 25% Very Good\nRespect and concern for students: 75% Excellent, 25% Very Good\n\nView Official SPOT Report\n\n\n\nPHC 6052\n\nBiostatistics I\nSummer 2026\n\n100%\n\n\nExcellent or Very Good — Overall Assessment\n\n3 completed evaluations\n\nOverall assessment: 67% Excellent, 33% Very Good\nCommunication of ideas and information: 67% Excellent, 33% Very Good\nAvailability to assist students: 67% Excellent, 33% Very Good\nFacilitation of learning: 67% Excellent, 33% Very Good\nRespect and concern for students: 67% Excellent, 33% Very Good View Official SPOT Report\n\n\n\n\nPercentages are based on completed student evaluations. Response counts are displayed to provide context."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research spans methodological statistics, biostatistics, epidemiology, and health data science. I am particularly interested in developing and evaluating statistical methods and applying them to complex biomedical and public health data."
+  },
+  {
+    "objectID": "research.html#methodological-research",
+    "href": "research.html#methodological-research",
+    "title": "Research",
+    "section": "Methodological Research",
+    "text": "Methodological Research\nMy methodological research focuses on regression modeling, statistical inference, multicollinearity, shrinkage estimation, and Monte Carlo simulation.\nCurrent and previous work includes:\n\nDevelopment and evaluation of one- and two-parameter regression estimators under multicollinearity\nEmpirical comparison of Type I error and statistical power\nRidge regression and Liu-type estimators\nElastic Net and robust estimation methods\nMonte Carlo simulation studies\nApplications of statistical methodology to real-world datasets"
+  },
+  {
+    "objectID": "research.html#biomedical-public-health-research",
+    "href": "research.html#biomedical-public-health-research",
+    "title": "Research",
+    "section": "Biomedical & Public Health Research",
+    "text": "Biomedical & Public Health Research\nI collaborate on interdisciplinary research involving:\n\nMaternal and neonatal health\nOncology and fertility preservation\nHIV/AIDS and COVID-19\nAlzheimer’s disease\nEnvironmental and climate health\nPopulation health"
+  },
+  {
+    "objectID": "research.html#survival-analysis-machine-learning",
+    "href": "research.html#survival-analysis-machine-learning",
+    "title": "Research",
+    "section": "Survival Analysis & Machine Learning",
+    "text": "Survival Analysis & Machine Learning\nMy work with longitudinal Alzheimer’s disease data includes prediction of progression from cognitively normal (CN) to mild cognitive impairment (MCI) and dementia.\nMethods include:\n\nCox proportional hazards models\nMulti-state survival analysis\nLASSO regression\nDeepSurv neural networks\nLongitudinal risk prediction\nBiomarker evaluation"
+  },
+  {
+    "objectID": "research.html#environmental-epidemiologic-methods",
+    "href": "research.html#environmental-epidemiologic-methods",
+    "title": "Research",
+    "section": "Environmental & Epidemiologic Methods",
+    "text": "Environmental & Epidemiologic Methods\nMy collaborative research has involved statistical analysis of environmental exposures and health outcomes using methods including:\n\nLogistic regression\nWeighted Quantile Sum (WQS) regression\nBayesian Kernel Machine Regression (BKMR)\nStructural Equation Modeling (SEM)\nMultiple imputation\nSensitivity analysis"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Md Ariful Hoque",
@@ -33,5 +208,26 @@
     "title": "Md Ariful Hoque",
     "section": "Connect",
     "text": "Connect\nGitHub"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2026\n\n\nMd Ariful Hoque, B. M. Golam Kibria, and Zoran Bursac\nStats, 9(1), 15, 2026.\nView Publication\n\n\n\n2026\n\n\nMd Ariful Hoque, Zoran Bursac, and B. M. Golam Kibria\nIn Advances in Shrinkage and Penalized Estimation Strategies: Honoring the Contributions of Professor A. K. Md. Ehsanes Saleh, pp. 327–357. Springer Nature Switzerland, 2026.\n\n\n\n2025\n\n\nS. Dhungel, M. K. Ward, G. A. Barreto, et al., including Md Ariful Hoque\nAIDS and Behavior, 2025.\nView Publication\n\n\n\n2025\n\n\nMd Ariful Hoque, Zoran Bursac, and B. M. Golam Kibria\nStats, 8(2), 28, 2025.\nView Publication\n\n\n\n2024\n\n\nMd Ariful Hoque and B. M. Golam Kibria\nResearch in Statistics, 2(1), 2364747, 2024.\n\n\n\n2023\n\n\nMd Ariful Hoque and B. M. Golam Kibria\nSurveys in Mathematics and its Applications, 18, 183–221, 2023."
+  },
+  {
+    "objectID": "publications.html#journal-articles-book-chapters",
+    "href": "publications.html#journal-articles-book-chapters",
+    "title": "Publications",
+    "section": "",
+    "text": "2026\n\n\nMd Ariful Hoque, B. M. Golam Kibria, and Zoran Bursac\nStats, 9(1), 15, 2026.\nView Publication\n\n\n\n2026\n\n\nMd Ariful Hoque, Zoran Bursac, and B. M. Golam Kibria\nIn Advances in Shrinkage and Penalized Estimation Strategies: Honoring the Contributions of Professor A. K. Md. Ehsanes Saleh, pp. 327–357. Springer Nature Switzerland, 2026.\n\n\n\n2025\n\n\nS. Dhungel, M. K. Ward, G. A. Barreto, et al., including Md Ariful Hoque\nAIDS and Behavior, 2025.\nView Publication\n\n\n\n2025\n\n\nMd Ariful Hoque, Zoran Bursac, and B. M. Golam Kibria\nStats, 8(2), 28, 2025.\nView Publication\n\n\n\n2024\n\n\nMd Ariful Hoque and B. M. Golam Kibria\nResearch in Statistics, 2(1), 2364747, 2024.\n\n\n\n2023\n\n\nMd Ariful Hoque and B. M. Golam Kibria\nSurveys in Mathematics and its Applications, 18, 183–221, 2023."
+  },
+  {
+    "objectID": "publications.html#submitted-in-revision",
+    "href": "publications.html#submitted-in-revision",
+    "title": "Publications",
+    "section": "Submitted / In Revision",
+    "text": "Submitted / In Revision\n\nIn Revision\n\nAddressing Multicollinearity Using Two-Parameter Estimators for the Linear Regression Model: Theory, Simulation and Application\nMd Ariful Hoque, Zoran Bursac, and B. M. Golam Kibria\nSubmitted / In Revision"
   }
 ]

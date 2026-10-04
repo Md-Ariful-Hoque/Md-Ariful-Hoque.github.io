@@ -1,0 +1,606 @@
+/* ---------- Overall website ---------- */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #243447;
+  background-color: #ffffff;
+  line-height: 1.7;
+}
+
+/* ---------- Navigation bar ---------- */
+
+.navbar {
+  background-color: #082b4c !important;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffcc33 !important;
+}
+
+/* ---------- Main content ---------- */
+
+#quarto-content {
+  max-width: 1200px;
+  margin: auto;
+}
+
+main {
+  font-size: 1.02rem;
+}
+
+/* ---------- Headings ---------- */
+
+h1,
+h2,
+h3 {
+  color: #082b4c;
+  font-weight: 700;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #e8eef4;
+}
+
+h3 {
+  margin-top: 1.7rem;
+}
+
+/* ---------- Homepage hero ---------- */
+
+.hero-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  align-items: center;
+}
+
+.hero-name {
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: #082b4c;
+  margin-bottom: 0.5rem;
+  line-height: 1.1;
+}
+
+.hero-section h3 {
+  color: #376a94;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}
+
+/* ---------- Profile photograph ---------- */
+
+.profile-photo {
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+  object-position: center 25%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  border: 6px solid #ffffff;
+  box-shadow: 0 10px 30px rgba(8, 43, 76, 0.20);
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  border-radius: 6px;
+  padding: 0.55rem 1rem;
+  font-weight: 600;
+  margin-right: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.btn-primary {
+  background-color: #0b5fa5;
+  border-color: #0b5fa5;
+}
+
+.btn-primary:hover {
+  background-color: #082b4c;
+  border-color: #082b4c;
+}
+
+.btn-outline-primary {
+  color: #0b5fa5;
+  border-color: #0b5fa5;
+}
+
+.btn-outline-primary:hover {
+  background-color: #0b5fa5;
+  border-color: #0b5fa5;
+  color: white;
+}
+
+/* ---------- Links ---------- */
+
+a {
+  color: #0b65b1;
+}
+
+a:hover {
+  color: #063f70;
+}
+
+/* ---------- Horizontal separators ---------- */
+
+hr {
+  border-top: 1px solid #dce5ed;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* ---------- Lists ---------- */
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+/* ---------- Footer ---------- */
+
+.nav-footer {
+  background-color: #f5f8fb;
+  border-top: 1px solid #e0e7ee;
+  margin-top: 4rem;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 768px) {
+
+  .hero-name {
+    font-size: 2.4rem;
+  }
+
+  .profile-photo {
+    width: 220px;
+    height: 220px;
+    margin-top: 2rem;
+  }
+
+  .hero-section {
+    padding-top: 1.5rem;
+  }
+}
+
+/* ---------- Hero text ---------- */
+
+.hero-title {
+  font-size: 1.45rem;
+  font-weight: 600;
+  color: #376a94;
+  margin-top: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.hero-affiliation {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #52697d;
+  margin-bottom: 1.4rem;
+}
+
+.hero-description {
+  font-size: 1.08rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #35495a;
+  max-width: 720px;
+}
+
+/* ---------- Research cards ---------- */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.research-card {
+  background: #f8fafc;
+  border: 1px solid #e1e8ef;
+  border-radius: 10px;
+  padding: 1.4rem 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(8, 43, 76, 0.10);
+}
+
+.research-card h3 {
+  color: #0b5fa5;
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-size: 1.15rem;
+}
+
+.research-card p {
+  margin-bottom: 0;
+  color: #4b5f70;
+}
+
+@media (max-width: 768px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Featured publications ---------- */
+
+.featured-paper {
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #0b5fa5;
+  background-color: #f8fafc;
+  border-radius: 0 8px 8px 0;
+}
+
+.featured-paper h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  font-size: 1.15rem;
+  line-height: 1.4;
+}
+
+.featured-paper p {
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Teaching evaluations ---------- */
+
+.evaluation-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.evaluation-card {
+  background: #f8fafc;
+  border: 1px solid #e1e8ef;
+  border-radius: 12px;
+  padding: 1.6rem;
+  box-shadow: 0 4px 14px rgba(8, 43, 76, 0.06);
+}
+
+.evaluation-card h3 {
+  color: #082b4c;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.evaluation-card h4 {
+  color: #376a94;
+  margin-top: 0.2rem;
+}
+
+.evaluation-score {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #0b5fa5;
+  margin-top: 1rem;
+  line-height: 1;
+}
+
+.evaluation-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #52697d;
+  margin-top: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .evaluation-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Academic profile links ---------- */
+
+.academic-links {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.academic-links a {
+  text-decoration: none;
+}
+
+.academic-links a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Publications ---------- */
+
+.publication-card {
+  background: #ffffff;
+  border: 1px solid #e1e8ef;
+  border-radius: 10px;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.2rem;
+  box-shadow: 0 3px 12px rgba(8, 43, 76, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.publication-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 7px 20px rgba(8, 43, 76, 0.10);
+}
+
+.publication-card h3 {
+  color: #082b4c;
+  font-size: 1.15rem;
+  line-height: 1.45;
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.publication-card p {
+  margin-bottom: 0.45rem;
+}
+
+.publication-year {
+  display: inline-block;
+  background: #eaf3fb;
+  color: #0b5fa5;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+  margin-bottom: 0.7rem;
+}
+
+/* ---------- Research page ---------- */
+
+.research-section {
+  background: #ffffff;
+  border: 1px solid #e1e8ef;
+  border-radius: 10px;
+  padding: 1.5rem 1.7rem;
+  margin-bottom: 1.3rem;
+  box-shadow: 0 3px 12px rgba(8, 43, 76, 0.05);
+}
+
+.research-section h2 {
+  margin-top: 0;
+  border-bottom: none;
+  color: #082b4c;
+}
+
+.research-section strong {
+  color: #0b5fa5;
+}
+
+/* ---------- Research goal ---------- */
+
+.research-goal {
+  margin-top: 2rem;
+  padding: 1.5rem 1.8rem;
+  background: #f2f7fb;
+  border-left: 5px solid #0b5fa5;
+  border-radius: 0 10px 10px 0;
+}
+
+.research-goal h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  color: #082b4c;
+}
+
+.research-goal p {
+  margin-bottom: 0;
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+/* ---------- Experience timeline ---------- */
+
+.experience-item {
+  position: relative;
+  padding-left: 1.6rem;
+  padding-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
+  border-left: 2px solid #dbe6ef;
+}
+
+.experience-item::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 0.35rem;
+  width: 10px;
+  height: 10px;
+  background: #0b5fa5;
+  border-radius: 50%;
+}
+
+.experience-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  color: #082b4c;
+}
+
+.experience-item p {
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Education ---------- */
+
+.education-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #e1e8ef;
+}
+
+.education-item:last-child {
+  border-bottom: none;
+}
+
+.education-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+  font-size: 1.15rem;
+  color: #082b4c;
+}
+
+.education-item p {
+  margin-bottom: 0.15rem;
+}
+
+/* ---------- Projects ---------- */
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.3rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  background: #ffffff;
+  border: 1px solid #e1e8ef;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 3px 12px rgba(8, 43, 76, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(8, 43, 76, 0.10);
+}
+
+.project-card h2,
+.project-card h3 {
+  margin-top: 0;
+  border-bottom: none;
+  color: #082b4c;
+  font-size: 1.2rem;
+}
+
+.project-card p {
+  color: #4b5f70;
+}
+
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Teaching experience ---------- */
+
+.teaching-item {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #e1e8ef;
+}
+
+.teaching-item:last-child {
+  border-bottom: none;
+}
+
+.teaching-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  color: #082b4c;
+}
+
+.teaching-item .teaching-role {
+  color: #376a94;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.teaching-item ul {
+  margin-top: 0.6rem;
+}
+
+/* ---------- Skills ---------- */
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.skill-box {
+  background: #f8fafc;
+  border: 1px solid #e1e8ef;
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem;
+}
+
+.skill-box h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #0b5fa5;
+  font-size: 1.05rem;
+}
+
+.skill-box p {
+  margin-bottom: 0;
+  color: #4b5f70;
+}
+
+@media (max-width: 768px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Contact box ---------- */
+
+.contact-box {
+  background: #f2f7fb;
+  border-left: 5px solid #0b5fa5;
+  border-radius: 0 10px 10px 0;
+  padding: 1.4rem 1.6rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.contact-box p {
+  margin-bottom: 0.4rem;
+}
+
+.contact-box p:last-child {
+  margin-bottom: 0;
+}
+
+.contact-box a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.contact-box a:hover {
+  text-decoration: underline;
+}
